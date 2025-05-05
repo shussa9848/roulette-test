@@ -13,3 +13,5 @@
    ```bash
    node randomMemberSelector.js
    ```
+## 動作デモ
+https://github.com/user-attachments/assets/624ea66e-8243-4205-bb92-d8aa05c0a9bc
